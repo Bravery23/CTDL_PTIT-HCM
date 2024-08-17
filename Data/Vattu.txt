@@ -1,0 +1,18 @@
+MAVT,TENVT,DVT,SoLuongTon
+BGKL|Bộ gõ kim loại|Bộ|200
+BGKL_1|Búa gõ kim loại|Chiếc|55
+BHM|Bơm hơi|Đôi|40
+BMD|Bảng mạch điện|Chiếc|45
+CM|Chân đế máy|Chiếc|25
+DDM|Bộ dụng cụ đo|Set|80
+DNC|Đầu nối cáp|Bộ|90
+DNG|Đồ nghề sửa chữa|Bộ|60
+GBH|Giày bảo hộ|Đôi|50
+KCC|Kìm cắt|Bộ|100
+LED|Đèn LED|Chiếc|95
+NPVC|Nhựa PVC|Mét|120
+ONN|Ống nước|Mét|65
+PAA|Pin AA|Hộp|85
+TCC|Thước cuộn|Chiếc|70
+TDK|Thanh đỡ kim loại|Mét|110
+VGG|Vít gỗ|Đôi|75
