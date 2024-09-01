@@ -13,6 +13,8 @@
 
 Hệ thống quản lý vật tư giúp theo dõi và quản lý thông tin vật tư, nhân viên và hóa đơn. Hệ thống cung cấp các chức năng chính như nhập xuất vật tư, quản lý nhân viên, lập và in hóa đơn, cũng như thống kê dữ liệu.
 
+![Mô tả hình ảnh](img.png)
+
 ## Cấu trúc Dữ liệu
 
 - **Danh sách Vật Tư** (`VatTu`): Cây nhị phân tìm kiếm với các trường `MAVT`, `TENVT`, `DVT`, `SoLuongTon`.
